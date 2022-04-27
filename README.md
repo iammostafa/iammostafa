@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">A passionate Mobile developer from egypt</h3>
+<h3 align="center">A passionate Mobile developer from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammostafa" alt="iammostafa" /></a> </p>
 
