@@ -1,23 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">A passionate Mobile developer from Egypt</h3>
+### Hi there, I'm Mostafa  👋 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammostafa" alt="iammostafa" /></a> </p>
+[![Linkedin:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
+[![Instagram:Yassin](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yaseen_almahdi5/)](https://www.instagram.com/yaseen_almahdi5/)
+[![Facebook:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yasin.almhdi.96/)](https://www.facebook.com/yasin.almhdi.96/)
+![GitHub followers](https://img.shields.io/github/followers/Yassin522?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
 
-<p align="left"> <a href="https://twitter.com/iammosstafa" target="blank"><img src="https://img.shields.io/twitter/follow/iammosstafa?logo=twitter&style=for-the-badge" alt="iammosstafa" /></a> </p>
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iammosstafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iammosstafa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostafa-yehia-296a69150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-yehia-296a69150" height="30" width="40" /></a>
-<a href="https://fb.com/i.am.mostafa.yehia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.am.mostafa.yehia" height="30" width="40" /></a>
-<a href="https://instagram.com/iammosstafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammosstafa" height="30" width="40" /></a>
-</p>
+## 👨🏻‍💻 &nbsp;About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+## I'm a Flutter Developer !!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammostafa&show_icons=true&locale=en&layout=compact" alt="iammostafa" /></p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammostafa&show_icons=true&locale=en" alt="iammostafa" /></p>
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play games
+- ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I can
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammostafa&" alt="iammostafa" /></p>
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Dart-green)
+![](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
+![](https://img.shields.io/badge/Code-Java-red)
+![](https://img.shields.io/badge/Tools-Git-blue)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+[<code  >
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+</code>](#)
+[<code >
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
+</code>](#)
+[<code >
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
+</code>](#)
+[<code >
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+</code>](#)
+[<code >
+<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+</code>](#)
+
+<p align="left"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
+- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
+
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
+
+
+
